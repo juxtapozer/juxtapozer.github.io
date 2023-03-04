@@ -60,7 +60,6 @@ h1 {
   
   .tile {
     width: 100%;
-    height: 56;
     background-color: rgb(40,40,40);
     margin: 8px;
     border-radius: 18px;
@@ -68,3 +67,12 @@ h1 {
     justify-content: space-between;
     
   }
+
+.tile-share-button {
+  margin: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(50,50,50);
+  
+}
