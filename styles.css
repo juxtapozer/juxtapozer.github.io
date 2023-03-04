@@ -31,7 +31,7 @@ h1 {
   border-radius: 20px;
   background-color: rgb(240,240,240);
   
-  .container 0
+  .container {
     width: 91%;
     max-width: 680px;
     margin: 10px;
