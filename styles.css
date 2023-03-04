@@ -46,6 +46,17 @@ h1 {
     
   }
   
+  .image-container {
+    height: 96;
+    width: 96;
+    border-radius: 48;
+    overflow: hidden;
+}
+
+.image-container {
+  height: 100%;
+}
+
   .tile{
     width: 100%;
     height: 56;
