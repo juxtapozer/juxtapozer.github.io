@@ -25,4 +25,14 @@ header {
   height: 40px;
   border-radius: 20px;
   background-color: rgb(240,240,240);
+  
+  .container {
+    width: 91%;
+    max-width: 680px;
+    margin: 10px;
+    display: flex;
+    flex-directoin: column;
+    align-items: center;
+  }
+  
 }
