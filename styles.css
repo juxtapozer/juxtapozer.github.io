@@ -30,6 +30,7 @@ h1 {
   height: 40px;
   border-radius: 20px;
   background-color: rgb(240,240,240);
+}
   
   .container {
     width: 91%;
@@ -67,5 +68,3 @@ h1 {
     justify-content: space-between;
     
   }
-  
-}
