@@ -1,12 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(10,10,10);
+    background-color: rgb(200,200,200);
     color: rgb(240,240,240);
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 100vw;
+    width: 100px;
     font-family: Verdana;
 }
 
@@ -19,14 +19,8 @@ header {
     margin-top: 15px;
 }
 
-.share-button svg {
-    margin-left: 12px;
-    margin-top: 10px;
-    color: rgb(0,0,0);
-}
-
 .container {
-    width: 91%;
+    width: 90%;
     max-width: 680px;
     margin: 10px;
     display: flex;
@@ -35,20 +29,20 @@ header {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 30px;
 }
 
 a {
     text-decoration: none;
-    color: rgb(240,240,240);
+    color: rgb(200,200,200);
 }
 
 .tile {
     width: 100%;
-    background-color: rgb(37,37,37);
-    margin: 7px;
-    border-radius: 17px;
+    background-color: rgb(20,20,20);
+    margin: 8px;
+    border-radius: 18px;
     display: flex;
     justify-content: space-between;
 }
@@ -59,18 +53,12 @@ a {
 }
 
 .image-container {
-    height: 96px;
-    width: 96px;
+    height: 100px;
+    width: 100px;
     border-radius: 48px;
     overflow: hidden;
 }
 
 .image-container img {
     height: 100%;
-}
-
-.icon {
-    margin: 4px 8px;
-    width: 44px;
-    height: 44px;
 }
