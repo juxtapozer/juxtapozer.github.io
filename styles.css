@@ -7,7 +7,7 @@ body {
     align-items: center;
     flex-direction: column;
     width: 100px;
-    font-family: Verdana;
+    font-family: Open Sans, Lato;
 }
 
 header {
