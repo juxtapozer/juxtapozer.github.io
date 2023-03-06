@@ -10,22 +10,10 @@ body {
     font-family: Open Sans, Lato;
 }
 
-header {
-    width: 95%;
-    max-width: 788px;
-    display: flex;
-    justify-content: flex-end;
-    padding: 12px;
-    margin-top: 15px;
-}
-
 .container {
-    width: 90%;
-    max-width: 680px;
-    margin: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+   display: grid;
+/* display: flex; */
+   place-content: center;
 }
 
 h1 {
